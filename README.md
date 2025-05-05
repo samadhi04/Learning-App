@@ -1,9 +1,7 @@
-📚 Skill-Sharing & Learning Platform
-
+*Skill-Sharing & Learning Platform*
 This is an interactive web-based platform designed for continuous learning and skill sharing. It empowers users to share their skills, track their learning progress, and connect with others in a collaborative environment. Whether you're learning to code, cook, or create crafts—Level Up provides a modern space for growth and inspiration.
 
-🚀 Features
-✅ Core Functionalities
+*Core Functionalities*
 - User Registration & OAuth 2.0 Authentication (via social media)
 - Personalized Profile Management
 - Follow/Unfollow Other Users
@@ -13,16 +11,14 @@ This is an interactive web-based platform designed for continuous learning and s
 - Real-time Notifications
 - Structured Learning Plans (Coming Soon)
 
-🧩 Technology Stack
-
+*Technology Stack*
 - **Backend:** Spring Boot (Java)
 - **Frontend:** React
 - **Database:** MySQL
 - **Security:** Spring Security with OAuth 2.0
 - **Version Control & CI/CD:** GitHub and GitHub Actions
 
-🔒 Non-Functional Highlights
-
+*Non-Functional Highlights*
 - Security: OAuth 2.0, RBAC, encrypted data
 - Scalability: Optimized APIs, scalable architecture
 - Performance: Fast API responses, indexed DB queries
@@ -32,7 +28,7 @@ This is an interactive web-based platform designed for continuous learning and s
 - Compatibility: Works across browsers and devices
 - Extensibility: API ready for mobile app integration
 
-📌 API Endpoints Overview
+*API Endpoints Overview*
 👤 User Management
 - `POST /auth/login`
 - `GET /users/{id}`
@@ -42,7 +38,7 @@ This is an interactive web-based platform designed for continuous learning and s
 - `GET /users/{id}/followers`
 - `GET /users/{id}/following`
 
-### 📷 Skill Sharing
+📷 Skill Sharing
 - `POST /posts/`
 - `GET /posts/{id}`
 - `PUT /posts/{id}`
