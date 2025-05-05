@@ -1,4 +1,5 @@
 *Skill-Sharing & Learning Platform*
+
 This is an interactive web-based platform designed for continuous learning and skill sharing. It empowers users to share their skills, track their learning progress, and connect with others in a collaborative environment. Whether you're learning to code, cook, or create crafts—Level Up provides a modern space for growth and inspiration.
 
 *Core Functionalities*
